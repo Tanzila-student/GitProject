@@ -1,5 +1,10 @@
 This is the original content
 
 This is from local computer
+<<<<<<< HEAD
 
 This is from local computer.
+=======
+This is from local computer
+
+>>>>>>> baa5715 (changes)
