@@ -1,2 +1,6 @@
 This is the original content
+<<<<<<< HEAD
 This is from the local computer
+=======
+This is from local computer
+>>>>>>> 62072b3 ('Add changes)
