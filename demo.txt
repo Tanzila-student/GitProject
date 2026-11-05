@@ -2,9 +2,13 @@ This is the original content
 
 This is from local computer
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 This is from local computer.
 =======
 This is from local computer
+=======
+
+>>>>>>> 1bfc74b (iniytial commit)
 
 >>>>>>> baa5715 (changes)
